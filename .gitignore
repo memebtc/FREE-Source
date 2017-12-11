@@ -1,0 +1,34 @@
+src/*.exe
+src/free
+src/freed
+src/test_free
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.free
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+free-qt
+FREE-Qt.app
+
+# Unit-tests
+Makefile.test
+free-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

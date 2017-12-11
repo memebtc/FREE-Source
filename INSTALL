@@ -1,0 +1,9 @@
+Building FREE
+
+See doc/readme-qt.rst for instructions on building FREE-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FREE.
+
+See doc/build-*.txt for instructions on building freed,
+the intended-for-services, no-graphical-interface, reference
+implementation of FREE.
